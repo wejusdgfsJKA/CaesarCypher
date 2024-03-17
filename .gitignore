@@ -6,3 +6,5 @@ x64/
 *.vcxproj.user
 *.user
 *.filters
+ExtraCredit1.vcxproj.filters
+ExtraCredit1.vcxproj.user
