@@ -2,5 +2,7 @@
 .vs/
 x64/
 *.vcxproj
-*.filters
+*.vcxproj.filters
+*.vcxproj.user
 *.user
+*.filters
