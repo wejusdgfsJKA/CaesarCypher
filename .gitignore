@@ -1,4 +1,4 @@
-ExtraCredit1.sln
+*.sln
 .vs/
 x64/
 *.vcxproj
